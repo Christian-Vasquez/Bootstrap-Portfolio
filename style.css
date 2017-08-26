@@ -1,0 +1,31 @@
+body{
+	background-color: lightgrey;
+}
+#namenav{
+	background-color: #8CE6BD;
+}
+#aboutnav{
+	background-color: white;
+}
+#contactcont{
+	background-color: white;	
+}
+.contact{
+	color: #8CE6BD;
+}
+#bttn{
+	background-color: #8CE6BD;
+	color: white;
+}
+#connectcont{
+	background-color: white;
+}
+.connectwithme{
+	color: #8CE6BD;
+}
+#line{
+	background-color: #8CE6BD;
+}
+#foot{
+	background-color: black;
+}
